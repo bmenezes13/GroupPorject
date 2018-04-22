@@ -65,3 +65,20 @@ public class InvoiceOperations {
 		}
 	}
 }
+/* What an invoice looks like:
+XX/XX/XX
+Employee,Customer
+ pbname,pbnum,listprice,salesprice,saleBoolean,quantity.
+ pbname,pbnum,listprice,salesprice,saleBoolean,quantity.
+ pbname,pbnum,listprice,salesprice,saleBoolean,quantity.
+ pbname,pbnum,listprice,salesprice,saleBoolean,quantity.
+ pbname,pbnum,listprice,salesprice,saleBoolean,quantity.
+ pbname,pbnum,listprice,salesprice,saleBoolean,quantity.
+ pbname,pbnum,listprice,salesprice,saleBoolean,quantity.
+ pbname,pbnum,listprice,salesprice,saleBoolean,quantity.
+ pbname,pbnum,listprice,salesprice,saleBoolean,quantity.
+ pbname,pbnum,listprice,salesprice,saleBoolean,quantity.
+ pbname,pbnum,listprice,salesprice,saleBoolean,quantity.
+Total Cost: XX.XX
+
+*/
